@@ -72,5 +72,6 @@ The script uses notifications to inform players about script status, including s
 
 After 10 hours of execution, the script automatically shuts down and disables its functionalities, requiring reinitialization and revalidation.
 
-***Additional Information***
+***#Additional Information#***
+
 SPJ Reach is continuously updated to add new features and improve functionality. For more information and updates, join our Discord server: https://discord.gg/eQqHWwMJEa.
