@@ -68,9 +68,9 @@ Ball Ownership and Plag Control: Options to define if the player should own the 
 
 The script uses notifications to inform players about script status, including successful key validation, errors, and version information.
 
-*12. Auto-Destruction#*
+*#12. Auto-Destruction#*
 
 After 10 hours of execution, the script automatically shuts down and disables its functionalities, requiring reinitialization and revalidation.
 
-Additional Information
+***Additional Information***
 SPJ Reach is continuously updated to add new features and improve functionality. For more information and updates, join our Discord server: https://discord.gg/eQqHWwMJEa.
